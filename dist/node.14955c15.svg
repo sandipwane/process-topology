@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="251px" height="121px" viewBox="-0.5 -0.5 251 121" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-05-17T10:27:50.324Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36&quot; etag=&quot;1l3bYauz75KSP_nMRsue&quot; version=&quot;12.9.14&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;hvn17A2abz4xf0iJxS_u&quot; name=&quot;Page-1&quot;&gt;3VbBcpswEP0ajpkxYGz3WMBOp9N02jqddnrJyJYAxUJLhQh2v74rEMYEJ01n4ksuRvu0Wu2+twt2/CjfXytSZDdAmXC8Cd07fux43nwxw18DHFogmFogVZy2kNsDa/6HWXBi0YpTVg4cNYDQvBiCW5CSbfUAI0pBPXRLQAxvLUjKRsB6S8QY/cGpzlp04c17/APjadbd7M7etTs56ZxtJWVGKNQnkL90/EgB6HaV7yMmDHcdL+251RO7x8QUk/olB26S5OttEf/c3d19Xx5+CboX3pWN8kBEZQu2yepDx4CCSlJmgkwcP6wzrtm6IFuzW6PkiGU6F2i5uLThmNJs/2Se7rF67BoGOdPqgC72gD+1hNmO8QJr1z3/Ryw75b5jmljN02PsnhZcWGb+g6Xpv1kSXOIqLLWC3bFTDCMJFyICAQptCY0TETyVaAqWYOqhYYtjx723cM4pFU0wpJnL9BaQ5PjK7ZFPzcHY75FvlgYDKdBEk02TmZFMkA0TX6DkmoOJr1rfsAAudUNVEDpB3CBKRyCxCMIbsRgpdc1K452A1HY8Xe9CSi9eqPTiQjoHI50/kgcy0hor1sO2b2V/JPMzym+RIaae0/7cnA0n8TUECB6P2nwkwPQM/xcbtNmZQZuJrv3M+7slBNHflXlxhhFUiiOV3uQzq3sYV6l9ktxwJzdl0dirqkTvlQBkHZ/3jcCre7rrbkKrvayL8HbVXwzU9yfj8XPd15Efzf5L1+yd/F3wl38B&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs />
+    <g>
+        <rect x="0" y="0" width="250" height="120" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <path d="M 0 34 L 250 34" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all" />
+        <rect x="10" y="7" width="40" height="20" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 17px; margin-left: 11px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Java</div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="30" y="21" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">Java</text>
+            </switch>
+        </g>
+        <rect x="18" y="50" width="110" height="20" fill="none" stroke="none" pointer-events="all" />
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 108px; height: 1px; padding-top: 60px; margin-left: 19px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font face="Courier New"> /usr/local/java/jdk</font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="73" y="64" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">/usr/local/java/j...</text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" />
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1</text>
+        </a>
+    </switch>
+</svg>
