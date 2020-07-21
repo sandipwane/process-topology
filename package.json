@@ -18,7 +18,8 @@
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
-    "parcel-bundler": "^1.6.1"
+    "parcel-bundler": "^1.6.1",
+    "lodash": ">=4.17.19"
   },
   "keywords": []
 }
